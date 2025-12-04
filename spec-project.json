@@ -1,0 +1,11 @@
+{
+  "project": "AI Spec-Driven Book",
+  "goal": "Deliver hackathon book + RAG demo per submission form",
+  "audience": "Hackathon reviewers",
+  "chapters": ["Intro", "Core", "How-to", "Examples", "Appendix"],
+  "acceptance": {
+    "each_chapter_outcomes": 3,
+    "code_runnable": true,
+    "site_responsive": true
+  }
+}
