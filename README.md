@@ -2,6 +2,10 @@
 
 Interactive textbook on Physical AI & Humanoid Robotics with RAG chatbot integration - Hackathon I Submission
 
+🌐 **Live Site**: [https://hackathon-i-submission-physical-ai.vercel.app/](https://hackathon-i-submission-physical-ai.vercel.app/)
+
+📦 **GitHub**: [https://github.com/HassaanFisky/-Hackathon-I-Submission-Physical-AI-Humanoid-Robotics-Textbook](https://github.com/HassaanFisky/-Hackathon-I-Submission-Physical-AI-Humanoid-Robotics-Textbook)
+
 ## About This Project
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.

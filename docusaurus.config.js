@@ -78,9 +78,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: "My Site",
+        title: "Physical AI & Humanoid Robotics",
         logo: {
-          alt: "My Site Logo",
+          alt: "Physical AI Logo",
           src: "img/logo.svg",
         },
         items: [
@@ -88,11 +88,11 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Tutorial",
+            label: "Textbook",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/HassaanFisky/-Hackathon-I-Submission-Physical-AI-Humanoid-Robotics-Textbook",
             label: "GitHub",
             position: "right",
           },
@@ -105,43 +105,34 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
+                label: "Introduction",
                 to: "/docs/intro",
               },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Core Concepts",
+                to: "/docs/02-core",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "X",
-                href: "https://x.com/docusaurus",
+                label: "Examples",
+                to: "/docs/04-examples",
               },
             ],
           },
           {
-            title: "More",
+            title: "Resources",
             items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/HassaanFisky/-Hackathon-I-Submission-Physical-AI-Humanoid-Robotics-Textbook",
+              },
+              {
+                label: "Vercel Deployment",
+                href: "https://hackathon-i-submission-physical-ai.vercel.app/",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Hackathon I Submission - Physical AI & Humanoid Robotics. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
