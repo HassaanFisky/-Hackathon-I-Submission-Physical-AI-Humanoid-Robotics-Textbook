@@ -113,8 +113,8 @@ const config = {
                 to: "/docs/02-core",
               },
               {
-                label: "Examples",
-                to: "/docs/04-examples",
+                label: "How-to Guide",
+                to: "/docs/03-howto",
               },
             ],
           },

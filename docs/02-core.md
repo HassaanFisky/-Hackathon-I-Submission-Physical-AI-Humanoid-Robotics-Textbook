@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+slug: /02-core
+---
+
 # Core Concepts in Humanoid Robotics
 
 ## Learning Outcomes

@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+slug: /05-appendix
+---
+
 # Appendix: Resources and Tools
 
 ## Learning Outcomes

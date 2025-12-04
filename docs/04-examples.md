@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+slug: /04-examples
+---
+
 # Real-World Examples of Humanoid Robotics
 
 ## Learning Outcomes

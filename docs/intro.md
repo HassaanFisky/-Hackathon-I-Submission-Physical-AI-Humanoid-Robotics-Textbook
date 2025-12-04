@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+slug: /intro
+---
+
 # Introduction to Physical AI & Humanoid Robotics
 
 ## Learning Outcomes

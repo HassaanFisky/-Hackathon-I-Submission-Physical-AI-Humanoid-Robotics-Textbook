@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+slug: /03-howto
+---
+
 # How-to Guide: Building Your First Robot System
 
 ## Learning Outcomes
