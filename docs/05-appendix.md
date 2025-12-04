@@ -54,7 +54,7 @@
 
 **Unitree Go Series**: Quadruped robots with open SDK ($1,600-$3,500)
 
-**Custom Builds**: Arduino/Raspberry Pi-based robots (<$500)
+**Custom Builds**: Arduino/Raspberry Pi-based robots (&lt;$500)
 
 ### Development Boards
 
