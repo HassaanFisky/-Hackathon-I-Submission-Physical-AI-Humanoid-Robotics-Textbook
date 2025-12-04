@@ -1,17 +1,21 @@
-# Website
+# Hackathon I Submission: Physical AI & Humanoid Robotics Textbook
+
+Interactive textbook on Physical AI & Humanoid Robotics with RAG chatbot integration - Hackathon I Submission
+
+## About This Project
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ## Installation
 
 ```bash
-yarn
+npm install
 ```
 
 ## Local Development
 
 ```bash
-yarn start
+npm run dev
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -19,7 +23,7 @@ This command starts a local development server and opens up a browser window. Mo
 ## Build
 
 ```bash
-yarn build
+npm run build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
